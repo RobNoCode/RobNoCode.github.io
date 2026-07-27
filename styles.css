@@ -16,15 +16,15 @@
   --accent-dark:#b31712;
   --ink-invert:#ffffff;
 
-  --belt-adults:#111111;
+  --belt-adults:#e0231f;
   --belt-adults-ink:#ffffff;
-  --belt-kids:#111111;
+  --belt-kids:#e0231f;
   --belt-kids-ink:#ffffff;
-  --belt-womens:#111111;
+  --belt-womens:#e0231f;
   --belt-womens-ink:#ffffff;
-  --belt-selfdefence:#111111;
+  --belt-selfdefence:#e0231f;
   --belt-selfdefence-ink:#ffffff;
-  --belt-mma:#111111;
+  --belt-mma:#e0231f;
   --belt-mma-ink:#ffffff;
 
   --radius:3px;
@@ -44,12 +44,12 @@
     --accent:#ff3b36;
     --accent-ink:#ffffff;
     --accent-dark:#e0231f;
-    --belt-adults:#f4f3f1;
-    --belt-adults-ink:#111111;
-    --belt-kids:#f4f3f1;--belt-kids-ink:#111111;
-    --belt-womens:#f4f3f1;--belt-womens-ink:#111111;
-    --belt-selfdefence:#f4f3f1;--belt-selfdefence-ink:#111111;
-    --belt-mma:#f4f3f1;--belt-mma-ink:#111111;
+    --belt-adults:#ff3b36;
+    --belt-adults-ink:#ffffff;
+    --belt-kids:#ff3b36;--belt-kids-ink:#ffffff;
+    --belt-womens:#ff3b36;--belt-womens-ink:#ffffff;
+    --belt-selfdefence:#ff3b36;--belt-selfdefence-ink:#ffffff;
+    --belt-mma:#ff3b36;--belt-mma-ink:#ffffff;
   }
 }
 
@@ -530,7 +530,7 @@ a.amenity:hover{border-color:var(--accent);color:var(--accent);}
 }
 .guide-byline .avatar{
   width:40px;height:40px;border-radius:50%;flex:none;
-  background:var(--belt-adults);color:var(--accent);
+  background:var(--surface-2);color:var(--accent);
   border:2px solid var(--accent);
   display:flex;align-items:center;justify-content:center;
   font-family:var(--font-display);font-size:15px;
