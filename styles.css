@@ -296,12 +296,14 @@ p{margin:0 0 1em;max-width:62ch;}
   overflow:hidden;
 }
 @media (max-width:900px){ .hero-fullbleed{background-attachment:scroll;} }
+.hero-fullbleed .hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;}
 .hero-fullbleed::before{
   content:'';
   position:absolute;inset:0;
+  z-index:1;
   background:linear-gradient(180deg, rgba(10,10,10,.68), rgba(10,10,10,.42) 55%, rgba(10,10,10,.72));
 }
-.hero-fullbleed .container{position:relative;z-index:1;}
+.hero-fullbleed .container{position:relative;z-index:2;}
 .hero-fullbleed .eyebrow{color:var(--accent) !important;}
 .hero-fullbleed h1{color:#fff;}
 .hero-fullbleed .lede{color:#e8e6e2;}
