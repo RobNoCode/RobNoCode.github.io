@@ -1,6 +1,6 @@
 # Impulse Brazilian Jiu Jitsu
 
-> Brazilian Jiu Jitsu academy in Orton Southgate, Peterborough, UK, offering classes for adults, kids, women, self-defence and MMA-focused grappling. Founded and led by Fabio Ferrari (Black Belt), with a coaching team spanning Black, Brown, Purple and Blue belts. Free trial class available to all new members, no experience needed.
+> Brazilian Jiu Jitsu academy in Orton Southgate, Peterborough, UK, offering classes for adults, kids and women. Founded and led by Fabio Ferrari (Black Belt), with a coaching team spanning Black, Brown, Purple and Blue belts. Free trial class available to all new members, no experience needed.
 
 Address: Unit 14, Stapled Road, Orton Southgate, Peterborough PE2 6TD, UK
 Phone: 07955 355737
@@ -12,8 +12,6 @@ Areas served: Peterborough and surrounding areas including Orton Southgate, Hamp
 - [Adult BJJ](https://robnocode.github.io/adults-bjj/): Beginner-friendly adult Brazilian Jiu Jitsu classes, Gi, No-Gi, Open Mat and Beginners programmes, taught by black belt coaches.
 - [Kids BJJ](https://robnocode.github.io/kids-bjj/): Classes for children aged 4 to 13 across Tots, Kids 1 and Kids 2 programmes, building confidence, discipline and self-defence.
 - [Women's BJJ](https://robnocode.github.io/womens-bjj/): Women-only classes led by a female black belt, building self-defence skills, fitness and confidence.
-- [Self-Defence](https://robnocode.github.io/self-defence/): Practical self-defence classes using real Brazilian Jiu Jitsu technique, for all ages.
-- [MMA](https://robnocode.github.io/mma/): MMA training with a strong focus on Brazilian Jiu Jitsu fundamentals, grappling control and ground-based technique.
 - [Free Trial](https://robnocode.github.io/free-trial/): Book a free trial class, new members only, no experience required.
 
 ## Guides
