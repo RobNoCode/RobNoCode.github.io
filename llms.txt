@@ -26,6 +26,7 @@ Areas served: Peterborough and surrounding areas including Orton Southgate, Hamp
 
 - [FAQ](https://robnocode.github.io/faq/): Answers to common questions about starting BJJ, what to wear, class ages, belts, self-defence and MMA.
 - [Gallery](https://robnocode.github.io/gallery/): Photos of the academy, mats, changing facilities and training community.
+- [Reviews](https://robnocode.github.io/reviews/): Real 5-star Google reviews from Impulse BJJ members, with the full review text and reviewer names.
 - [Contact](https://robnocode.github.io/contact/): Address, phone, email, opening hours and directions.
 
 ## Optional
